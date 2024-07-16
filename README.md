@@ -1,2 +1,2 @@
 # images
-cdn for https://github.com/ZillyInsta/ddnet-insta readme to avoid growing repo size
+cdn for https://github.com/ddnet-insta/ddnet-insta readme to avoid growing repo size
